@@ -1,6 +1,6 @@
 # Car_Specifications-Analysis
 
-<img width="315" height="250" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Car_Specifications-Analysis/blob/main/images/car.jpg" />
+<img width="900" height="500" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Car_Specifications-Analysis/blob/main/images/car.jpg" />
 
 # 🚗 Car Sales Dataset
 
