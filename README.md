@@ -95,25 +95,31 @@ Prepared for **data analysis, visualization, and learning projects**.
 
 # Visuals
 
-<h1>Engine Size By Brand</h1>
+<h1> 1.Engine Size By Brand</h1>
 <img width="900" height="500" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Car_Specifications-Analysis/blob/main/images/1.png" />
 
-
+<h1>2.Brands & Price</h1>
 <img width="900" height="500" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Car_Specifications-Analysis/blob/main/images/2.png" />
 
+<h1>3.Total Sum By Brand</h1>
 <img width="900" height="500" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Car_Specifications-Analysis/blob/main/images/3.png" />
 
+<h1>4.Transmission & Fuel Type</h1>
 <img width="900" height="500" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Car_Specifications-Analysis/blob/main/images/4.png" />
 
+<h1>5.Sum of Price By Brand</h1>
 <img width="900" height="500" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Car_Specifications-Analysis/blob/main/images/5.png" />
 
+<h1>6.Condition By Fuel Type</h1>
 <img width="900" height="500" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Car_Specifications-Analysis/blob/main/images/6.png" />
 
+<h1>7.Year VS Brand</h1>
 <img width="900" height="500" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Car_Specifications-Analysis/blob/main/images/7.png" />
 
 
 # Dashboards
-
+<h1>CAR SPECIFICATIONS & OVERVIEW</h1>
 <img width="900" height="500" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Car_Specifications-Analysis/blob/main/images/8.png" />
 
+<h1>CAR DETAILS</h1>
 <img width="900" height="500" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Car_Specifications-Analysis/blob/main/images/9.png" />
